@@ -12,7 +12,7 @@ graduate roles in space, medtech, additive manufacturing and systems integration
 ### Featured projects
 | Project | What it is |
 |---|---|
-| [Project name](link) | One line and one number, e.g. "droplet placement repeatable to <1 µm" |
+| [Meniscus Controller](https://github.com/EdSmithe/meniscus-controller) | Closed-loop meniscus pressure controller for inkjet printing: custom KiCad PCB, Arduino control firmware, Python GUI |
 
 ### Contact
 [LinkedIn](https://linkedin.com/in/edward-smith) · ejasmith2005@gmail.com
